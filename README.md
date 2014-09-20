@@ -62,3 +62,9 @@ A command with all these might look like:
 
 `$ program -k optionArg --full-test param1 param2`
 
+
+Guides
+======
+
+1. To see how to keep your Pi up to date and install and remove packages [see here](package-management.md)
+2. 
