@@ -64,4 +64,12 @@ If we then saw that the `python-picamera` package was available we can then see 
 
 `$ apt-cache show python-picamera`
 
+To install a package you need to run :
+
+`$ sudo apt-get install python-picamera`
+
+Or to remove a package:
+
+`$ sudo apt-get remove python-picamera`
+
 There are many other options and commands available for package management but we will leave it there.
